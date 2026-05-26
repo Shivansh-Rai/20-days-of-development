@@ -292,7 +292,7 @@ By the end of these 20 days, I aim to:
 ## Clone the Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Shivansh-Rai/20-days-of-development/
 ```
 
 ---
